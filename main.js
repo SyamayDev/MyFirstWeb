@@ -1,0 +1,1 @@
+alert('WARNING! YOU HAVE A VIRUS!')
